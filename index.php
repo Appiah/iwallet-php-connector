@@ -9,7 +9,7 @@
     </head>
     <body>
         <?php
-        include_once 'Integrator.class.php';
+        include_once 'IwalletConnector.class.php';
         
         
             $paylive="https://i-walletlive.com/payLIVE/detailsnew.aspx?pay_token=";
@@ -19,7 +19,7 @@
             
             $api_version="1.4";
             $merchant_email="your@merchant.email";
-            $merchant_secret_key="yoursecretkey";
+            $merchant_secret_key="yourmerchantkey";
             
             
             $service_type="C2B"; 
