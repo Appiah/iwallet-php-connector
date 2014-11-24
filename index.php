@@ -18,8 +18,8 @@
 
             
             $api_version="1.4";
-            $merchant_email="iwallet@dreamoval.com";
-            $merchant_secret_key="bdVI+jtRl80PG4x6NMvYOwfZTZtwfN";
+            $merchant_email="your@merchant.email";
+            $merchant_secret_key="yourmerchantkey";
             
             
             $service_type="C2B"; 
